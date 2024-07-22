@@ -1,7 +1,7 @@
-site_name: "Rasa中文文档"
+site_name: "Rasa 中文文档"
 site_author: Mingmin Yu
 site_description: >-
-  Rasa中文文档
+  Rasa 中文文档
 site_url: ""
 use_directory_urls: false
 
@@ -127,7 +127,14 @@ markdown_extensions:
 
 nav:
   - Rasa Pro:
-    
+
   - Rasa Studio:
   - Rasa Open Source:
+    - 介绍:
+    - Rasa Pro:
+    - 安装:
+      - 搭建环境:
+      - 安装 Rasa Open Source:
+      - 安装 Rasa Pro:
+        - 
   - Rasa X:
